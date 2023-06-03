@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FitAssistAI</string>
+    <string name="hintEmail">Email</string>
+    <string name="errorEmail">Enter the correct email format</string>
 </resources>

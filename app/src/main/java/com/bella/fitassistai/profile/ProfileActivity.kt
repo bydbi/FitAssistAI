@@ -1,12 +1,12 @@
-package com.bella.fitassistai.detail.camera
+package com.bella.fitassistai.profile
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.bella.fitassistai.R
 
-class UploadActivity : AppCompatActivity() {
+class ProfileActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_upload)
+        setContentView(R.layout.activity_profile)
     }
 }
