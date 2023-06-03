@@ -7,6 +7,6 @@ import com.bella.fitassistai.R
 class CameraActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_camerta)
+        setContentView(R.layout.activity_camera)
     }
 }
